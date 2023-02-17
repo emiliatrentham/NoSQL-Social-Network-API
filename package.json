@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nosql-social-network-api",
+  "description": "API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. Using Express.js for routing, a MongoDB database, and the Mongoose ODM.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiliatrentham/NoSQL-Social-Network-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emiliatrentham/NoSQL-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/emiliatrentham/NoSQL-Social-Network-API#readme"
+}
